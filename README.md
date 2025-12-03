@@ -1,8 +1,7 @@
-## Hey there! I'm Nishtha 👋
+## Hello! I'm Nishtha!!
 
 🎓 Third-year AI & Data Science undergrad  
 💻 Exploring Web Dev | AI | Full-Stack Projects  
-🌱 Currently learning DSA & PERN Stack  
 📊 Building tools that help with productivity and learning  
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nishtha-pardesi) • [Email](mailto:nishtha.pardesi@gmail.com)
 
@@ -17,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />   
 </div>
 
 

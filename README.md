@@ -19,6 +19,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>   
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nishtha911)](https://git.io/streak-stats)
-
 

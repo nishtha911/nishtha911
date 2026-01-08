@@ -50,7 +50,6 @@
   <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" height="40" alt="Jupyter"/>
   <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" height="40" alt="npm"/>
   <a href="https://www.kaggle.com/nishthapardesi" target="_blank"><img src="https://devicon-website.vercel.app/api/kaggle/original.svg" height="40" alt="Kaggle"/></a>
-  
   <br/><br/>
 
   <strong>Markup & Formats</strong><br/>

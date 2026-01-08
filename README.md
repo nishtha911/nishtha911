@@ -63,6 +63,6 @@ Thanks for visiting my profile! I'm always learning and open to collaboration â€
 
 ---
 <div align = "center">
-  ![](https://komarev.com/ghpvc/?username=nishtha911)
+  [](https://komarev.com/ghpvc/?username=nishtha911)
 </div>
 

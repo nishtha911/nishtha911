@@ -60,4 +60,9 @@
 ---
 
 Thanks for visiting my profile! I'm always learning and open to collaboration — feel free to reach out.
-![](https://komarev.com/ghpvc/?username=nishtha911)
+
+---
+<div align = "center">
+  ![](https://komarev.com/ghpvc/?username=nishtha911)
+</div>
+

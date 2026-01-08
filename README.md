@@ -34,9 +34,9 @@
   <br/><br/>
 
   <strong>Databases</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <br/><br/>
 
   <strong>Libraries</strong><br/>
@@ -45,11 +45,12 @@
   <br/><br/>
 
   <strong>Tools & Platforms</strong><br/>
-  <a href="https://www.kaggle.com/nishthapardesi" target="_blank"><img src="https://devicon-website.vercel.app/api/kaggle/original.svg" height="40" alt="Kaggle"/></a>
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="40" alt="VSCode"/>
   <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" height="40" alt="Anaconda"/>
   <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" height="40" alt="Jupyter"/>
   <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" height="40" alt="npm"/>
-  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="40" alt="VSCode"/>
+  <a href="https://www.kaggle.com/nishthapardesi" target="_blank"><img src="https://devicon-website.vercel.app/api/kaggle/original.svg" height="40" alt="Kaggle"/></a>
+  
   <br/><br/>
 
   <strong>Markup & Formats</strong><br/>

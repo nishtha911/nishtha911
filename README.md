@@ -4,9 +4,9 @@
 - Exploring Web Development, AI, and Data Structures & Algorithms
 - Building productivity and learning tools
 - Let's connect: 
-  <a href="https://www.linkedin.com/in/nishtha-pardesi" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" height="20" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nishtha-pardesi" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" height="25" alt="LinkedIn"/></a>
   &nbsp; 
-  <a href="mailto:nishtha.pardesi@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="20" alt="Email"/></a>
+  <a href="mailto:nishtha.pardesi@gmail.com"><img src="https://github.com/user-attachments/assets/7d947cc3-1db3-4058-9e1e-2a45c8a375bd" height="25" alt="Email"/></a>
 
 ---
 

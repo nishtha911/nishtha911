@@ -1,7 +1,7 @@
 ## Hello! I'm Nishtha 👋
 
 - Third-year AI & Data Science student
-- Exploring Web Development, AI, and Data Structures & Algorithms
+- Exploring Web Development, AI, Machine Learning, and Data Structures & Algorithms
 - Building productivity and learning tools
 - Let's connect: 
   <a href="https://www.linkedin.com/in/nishtha-pardesi" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" height="25" alt="LinkedIn"/></a>
@@ -55,8 +55,6 @@
   <strong>Markup & Formats</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="40" alt="XML"/>
 </div>
-
----
 
 ---
 ![](https://komarev.com/ghpvc/?username=nishtha911)

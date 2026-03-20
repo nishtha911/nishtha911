@@ -51,9 +51,6 @@
   <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" height="40" alt="npm"/>
   <a href="https://www.kaggle.com/nishthapardesi" target="_blank"><img src="https://devicon-website.vercel.app/api/kaggle/original.svg" height="40" alt="Kaggle"/></a>
   <br/><br/>
-
-  <strong>Markup & Formats</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="40" alt="XML"/>
 </div>
 
 ---

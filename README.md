@@ -73,14 +73,6 @@ Third-year **AI & Data Science** engineering student from Pune, building product
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nishtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishtha911&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha911&layout=compact&hide_border=true&theme=default)
-
-</div>
 
 ---
 

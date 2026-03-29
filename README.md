@@ -24,7 +24,6 @@ Third-year **AI & Data Science** engineering student from Pune, building product
 | [**smart\_study\_companion**](https://github.com/nishtha911/smart_study_companion) | AI-powered study assistant for smarter learning | Python |
 | [**ai-resume-critique**](https://github.com/nishtha911/ai-resume-critique) | Resume analyzer built with Streamlit & GROQ API | Python |
 | [**expense-tracker**](https://github.com/nishtha911/expense-tracker) | Full-stack expense management app | MERN Stack |
-| [**bookshelfhub**](https://github.com/nishtha911/bookshelfhub) | Digital bookshelf management platform | PHP |
 | [**my-fridge-food**](https://github.com/nishtha911/my-fridge-food) | Ingredient-based recipe finder | JavaScript |
 | [**sgpa-calculator**](https://github.com/nishtha911/sgpa-calculator) | SGPA/GPA calculator for engineering students | HTML/CSS/JS |
 
@@ -50,7 +49,6 @@ Third-year **AI & Data Science** engineering student from Pune, building product
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Databases**
 
@@ -70,9 +68,6 @@ Third-year **AI & Data Science** engineering student from Pune, building product
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
 
 ---
 

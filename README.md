@@ -5,7 +5,7 @@
 **AI & Data Science · Web Developer · Builder of things that actually help**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishtha-pardesi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-orcin-rho-81.vercel.app)
+[![Portfolio](https://nishtha911.github.io/portfolio/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nishthapardesi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nishtha.pardesi@gmail.com)
 

@@ -67,7 +67,6 @@ I’m an **AI & Data Science** engineering student from Pune who loves building 
 **AI / Data (libraries)**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -77,14 +76,6 @@ I’m an **AI & Data Science** engineering student from Pune who loves building 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📌 More repos to check out
-- [**expert-system-project**](https://github.com/nishtha911/expert-system-project) — symptom-based expert system (Python)
-- [**digit-recognition**](https://github.com/nishtha911/digit-recognition) — MNIST digit recognition (Python)
-- [**newspaper-bill-tracker**](https://github.com/nishtha911/newspaper-bill-tracker) — subscription expense tracking (JS)
-- [**SL_II-ANN**](https://github.com/nishtha911/SL_II-ANN) / [**SL_III-DS**](https://github.com/nishtha911/SL_III-DS) — lab practicals (Jupyter)
 
 ---
 

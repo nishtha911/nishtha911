@@ -2,87 +2,120 @@
 
 # Nishtha Pardesi
 
-**AI & Data Science · Web Developer · Builder of useful things**
+### Final Year AI & Data Science Student · ML Builder · Full-Stack Developer
+
+Pune, India  
+Open to **AI/ML, Data Science, and Software Engineering internships**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishtha-pardesi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://nishtha911.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://nishthapardesi.me/portfolio/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nishthapardesi)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32140085/nishtha-pardesi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nishtha_911)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=flat&logo=x&logoColor=white)](https://x.com/nishtha_911)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nishtha.pardesi@gmail.com)
 
 </div>
 
 ---
 
-## About me
-I’m an **AI & Data Science** engineering student from Pune who loves building at the intersection of **ML + web + product**.
+## About Me
 
-- 🔭 Currently building: study / productivity tools and ML prototypes
-- 🧠 Interests: NLP, recommender systems, applied deep learning, full‑stack apps
-- ⚡ Fun: I like turning messy real-world problems into clean interfaces + working models
+I’m a final-year **AI & Data Science** engineering student who enjoys building practical products at the intersection of **machine learning + software + user experience**.
+
+- Building in **ML** right now and exploring **cloud** next
+- Interested in **NLP, recommender systems, applied deep learning, and full-stack product development**
+- Focused on creating projects that are both technically strong and genuinely useful
 
 ---
 
-## 🚀 Cool Projects (highlights)
-> A few things I’m proud of (more pinned + repos below).
+## 🚀 Featured Personal Projects
 
-| Project | What it does | Tech |
+| Project | Overview | Tech |
 |---|---|---|
-| [**email-template-builder**](https://github.com/nishtha911/email-template-builder) | Drag‑and‑drop email template builder (full‑stack) | React, TypeScript, Express |
-| [**Pragyantra-ED14-ET-3**](https://github.com/nishtha911/Pragyantra-ED14-ET-3) | AI adaptive learning & skill development platform | TypeScript |
-| [**smart_study_companion**](https://github.com/nishtha911/smart_study_companion) | Smart study companion to organize subjects, progress, exams | Python |
-| [**ai-resume-critique**](https://github.com/nishtha911/ai-resume-critique) | AI resume critique with actionable feedback | Python, Streamlit |
-| [**expense-tracker**](https://github.com/nishtha911/expense-tracker) | Expense tracker built with MERN | MongoDB, Express, React, Node |
-| [**my-fridge-food**](https://github.com/nishtha911/my-fridge-food) | Suggests recipes based on ingredients you have | JavaScript |
-| [**movie-recommendation-system**](https://github.com/nishtha911/movie-recommendation-system) | Content‑based movie recommender | Python, Jupyter |
-| [**car-image-classification**](https://github.com/nishtha911/car-image-classification) | Image classification + experiments (ResNet50) | **TensorFlow** |
-| [**bookshelfhub**](https://github.com/nishtha911/bookshelfhub) | Tailwind‑styled PHP + MySQL CRUD app for books | PHP, MySQL, Tailwind |
-| [**sgpa-calculator**](https://github.com/nishtha911/sgpa-calculator) | SGPA/CGPA calculator + graph + % conversion | HTML, CSS, JS |
+| [**campuswallet**](https://github.com/nishtha911/campuswallet) | Campus-focused wallet/productivity solution (publishing soon). | *(updating soon)* |
+| [**my-fridge-food**](https://github.com/nishtha911/my-fridge-food) | Suggests recipes based on ingredients available at home. | JavaScript |
+| [**trackspace**](https://github.com/nishtha911/trackspace) | Productivity/tracking-focused app for organizing progress and tasks. | *(updating soon)* |
+| [**skimlit-pro**](https://github.com/nishtha911/skimlit-pro) | ML/NLP-oriented project focused on intelligent text understanding workflows. | Python, ML |
+| [**ai-resume-critique**](https://github.com/nishtha911/ai-resume-critique) | AI-powered resume critique with practical, actionable feedback. | Python, Streamlit |
+| [**newspaper-bill-tracker**](https://github.com/nishtha911/newspaper-bill-tracker) | Billing and tracking utility project (publishing soon). | *(updating soon)* |
 
 ---
 
-## 🧰 Tech Stack & Libraries
-**Languages**
+## 🏆 Hackathon Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+| Project | Hackathon / Status | Outcome |
+|---|---|---|
+| [**Pragyantra-ED14-ET-3**](https://github.com/nishtha911/Pragyantra-ED14-ET-3) | Pragyantra | **3rd Prize** |
+| [**TANAY270/NewCityAgent**](https://github.com/TANAY270/NewCityAgent) | SBI Hackathon | Disqualified |
+| [**idbi-innovate**](https://github.com/nishtha911/idbi-innovate) | IDBI Hackathon | Results Awaited |
+| [**FlowZint-Hackathon**](https://github.com/AyaanRukadikar/FlowZint-Hackathon) | FlowZint Hackathon | Results Awaited |
+| [**pattern-detector**](https://github.com/nishtha911/pattern-detector) | NABARD Hackathon | Results Awaited |
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+## 🎓 College Projects
 
-**Backend / DB**
+| Project | Overview | Tech |
+|---|---|---|
+| [**car-image-classification**](https://github.com/nishtha911/car-image-classification) | Car image classification experiments using transfer learning approaches. | TensorFlow, Python |
+| [**movie-recommendation-system**](https://github.com/nishtha911/movie-recommendation-system) | Content-based recommendation pipeline for personalized movie suggestions. | Python, Jupyter |
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<details>
+<summary><b>More academic / practice projects</b></summary>
 
-**AI / Data (libraries)**
+- [smart_study_companion](https://github.com/nishtha911/smart_study_companion)
+- [sgpa-calculator](https://github.com/nishtha911/sgpa-calculator)
+- [bookshelfhub](https://github.com/nishtha911/bookshelfhub)
+- [expense-tracker](https://github.com/nishtha911/expense-tracker)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+</details>
 
-**Tools**
+---
 
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## 🧰 Tech Stack
+
+<div align="left">
+
+### Languages  
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+
+### Frontend  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+
+### Backend & Databases  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+
+### AI / Data / Tools  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,vscode" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nishtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishtha911&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha911&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nishtha911&theme=default&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishtha911&theme=github-light&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nishtha911&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=nishtha911&color=0e75b6&style=flat)
 
-*Always learning. Always building.*
+**Always learning. Always building.**
 
 </div>

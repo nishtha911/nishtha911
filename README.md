@@ -46,11 +46,11 @@ I’m a final-year **AI & Data Science** engineering student who enjoys building
 
 | Project | Hackathon / Status | Outcome |
 |---|---|---|
-| [**Pragyantra-ED14-ET-3**](https://github.com/nishtha911/Pragyantra-ED14-ET-3) | Pragyantra | **3rd Prize** |
-| [**TANAY270/NewCityAgent**](https://github.com/TANAY270/NewCityAgent) | SBI Hackathon | Disqualified |
-| [**idbi-innovate**](https://github.com/nishtha911/idbi-innovate) | IDBI Hackathon | Results Awaited |
-| [**FlowZint-Hackathon**](https://github.com/AyaanRukadikar/FlowZint-Hackathon) | FlowZint Hackathon | Results Awaited |
-| [**pattern-detector**](https://github.com/nishtha911/pattern-detector) | NABARD Hackathon | Results Awaited |
+| [**Arivon**](https://github.com/nishtha911/Pragyantra-ED14-ET-3) | Pragyantra | **3rd Prize** |
+| [**NewCityAgent**](https://github.com/TANAY270/NewCityAgent) | SBI Hackathon | Participated |
+| [**FinSight**](https://github.com/nishtha911/idbi-innovate) | IDBI Hackathon | Results Awaited |
+| [**FlowBot**](https://github.com/AyaanRukadikar/FlowZint-Hackathon) | FlowZint Hackathon | Participated |
+| [**CashGuard**](https://github.com/SohamOrSomethin/pattern-detector) | NABARD Hackathon | Participated |
 
 ---
 
@@ -100,9 +100,6 @@ I’m a final-year **AI & Data Science** engineering student who enjoys building
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Nishtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishtha911&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha911&layout=compact&theme=default&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nishtha911&theme=default&hide_border=true)
 

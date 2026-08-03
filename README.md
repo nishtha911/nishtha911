@@ -33,12 +33,12 @@ I’m a final-year **AI & Data Science** engineering student who enjoys building
 
 | Project | Overview | Tech |
 |---|---|---|
-| [**campuswallet**](https://github.com/nishtha911/campuswallet) | Campus-focused wallet/productivity solution (publishing soon). | *(updating soon)* |
-| [**my-fridge-food**](https://github.com/nishtha911/my-fridge-food) | Suggests recipes based on ingredients available at home. | JavaScript |
-| [**trackspace**](https://github.com/nishtha911/trackspace) | Productivity/tracking-focused app for organizing progress and tasks. | *(updating soon)* |
-| [**skimlit-pro**](https://github.com/nishtha911/skimlit-pro) | ML/NLP-oriented project focused on intelligent text understanding workflows. | Python, ML |
+| [**campuswallet**](https://github.com/nishtha911/campuswallet) | Student-focused wallet/productivity solution. | PERN Stack, FastAPI |
+| [**my-fridge-food**](https://github.com/nishtha911/my-fridge-food) | Suggests recipes based on ingredients available at home. | PERN Stack, Pandas |
+| [**trackspace**](https://github.com/nishtha911/trackspace) | Productivity/tracking-focused app for organizing progress and tasks. | PERN Stack |
+| [**skimlit-pro**](https://github.com/nishtha911/skimlit-pro) | ML/NLP-oriented project focused on intelligent text understanding workflows. | TensorFlow, React |
 | [**ai-resume-critique**](https://github.com/nishtha911/ai-resume-critique) | AI-powered resume critique with practical, actionable feedback. | Python, Streamlit |
-| [**newspaper-bill-tracker**](https://github.com/nishtha911/newspaper-bill-tracker) | Billing and tracking utility project (publishing soon). | *(updating soon)* |
+
 
 ---
 
@@ -64,10 +64,8 @@ I’m a final-year **AI & Data Science** engineering student who enjoys building
 <details>
 <summary><b>More academic / practice projects</b></summary>
 
-- [smart_study_companion](https://github.com/nishtha911/smart_study_companion)
 - [sgpa-calculator](https://github.com/nishtha911/sgpa-calculator)
 - [bookshelfhub](https://github.com/nishtha911/bookshelfhub)
-- [expense-tracker](https://github.com/nishtha911/expense-tracker)
 
 </details>
 

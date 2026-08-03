@@ -2,7 +2,7 @@
 
 # Nishtha Pardesi
 
-### Final Year AI & Data Science Student · ML Builder · Full-Stack Developer
+### Final-Year AI & Data Science Student | Machine Learning | Full-Stack Development
 
 Pune, India  
 Open to **AI/ML, Data Science, and Software Engineering internships**

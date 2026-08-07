@@ -97,7 +97,7 @@ I enjoy taking ideas from experimentation to deployment—whether that's trainin
 | **CampusWallet** | AI-powered student finance platform featuring expense tracking, anomaly detection, and intelligent expense categorization using machine learning and LLMs. | React • FastAPI • Express • PostgreSQL • Scikit-learn |
 | **SkimLit Pro** | NLP application that classifies sentences from medical research abstracts using TensorFlow and deep learning. | TensorFlow • FastAPI • React |
 | **My Fridge Food** | Generates recipe recommendations based on ingredients available at home while minimizing food waste. | React • Express • Pandas |
-| **TrackSpace** | Productivity platform for organizing goals, progress tracking, and personal task management. | PERN Stack |
+| **TrackSpace** | Productivity platform for organizing goals, progress tracking, and personal task management. | Python + Flask |
 | **AI Resume Critique** | Resume review tool that provides AI-generated feedback and suggestions for improvement. | Python • Streamlit |
 
 ---

@@ -30,7 +30,7 @@
 
 # About Me
 
-I'm a final-year **Artificial Intelligence & Data Science** undergraduate passionate about building intelligent software that combines **Machine Learning, Backend Engineering, and Product Development**.
+I'm a final-year **Artificial Intelligence & Data Science** undergraduate passionate about building intelligent software that combines **Machine Learning, Backend Engineering, and Product Development.**
 
 I enjoy taking ideas from experimentation to deployment—whether that's training ML models, developing REST APIs, or creating full-stack applications with practical use cases.
 
@@ -43,49 +43,48 @@ I enjoy taking ideas from experimentation to deployment—whether that's trainin
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" />
 </p>
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
+
+### Cloud & Selected Services
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,s3,lambda,cloudformation,vercel" />
+</p>
+
+- AWS: S3, Lambda, CloudFormation, (Amazon Bedrock where applicable)
+- Hosting: Vercel
+- LLM / ML services: Amazon Bedrock
 
 ### Databases
-
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### Machine Learning & AI
-
+### Machine Learning & LLMs
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy,streamlit,huggingface" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-</p>
+- Frameworks / libraries: scikit-learn, Pandas, NumPy, Streamlit
+- LLM / tooling: LangChain, Hugging Face, Amazon Bedrock
 
-### Tools
-
+### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,kaggle" />
 </p>
 
 ---
@@ -94,7 +93,7 @@ I enjoy taking ideas from experimentation to deployment—whether that's trainin
 
 | Project | Description | Stack |
 |----------|-------------|-------|
-| **CampusWallet** | AI-powered student finance platform featuring expense tracking, anomaly detection, and intelligent expense categorization using machine learning and LLMs. | React • FastAPI • Express • PostgreSQL • Scikit-learn |
+| **CampusWallet** | AI-powered student finance platform featuring expense tracking, anomaly detection, and intelligent expense categorization using machine learning and LLMs. | React • FastAPI [...]
 | **SkimLit Pro** | NLP application that classifies sentences from medical research abstracts using TensorFlow and deep learning. | TensorFlow • FastAPI • React |
 | **My Fridge Food** | Generates recipe recommendations based on ingredients available at home while minimizing food waste. | React • Express • Pandas |
 | **TrackSpace** | Productivity platform for organizing goals, progress tracking, and personal task management. | Python + Flask |

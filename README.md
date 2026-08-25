@@ -2,147 +2,101 @@
 
 # Hi, I'm Nishtha Pardesi 👋
 
-### AI & Data Science Undergraduate • Machine Learning • Full-Stack Development
+**AI & Data Science Undergraduate · Machine Learning · Full-Stack Development**
 
 📍 Pune, India
 
-<p>
-  <a href="https://nishthapardesi.me/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nishtha-pardesi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nishtha911">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:nishtha.pardesi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/nishthapardesi">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://nishthapardesi.me/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishtha-pardesi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishtha911)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishtha.pardesi@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nishthapardesi)
 
 </div>
 
----
+<br>
 
-# About Me
+## About Me
 
-I'm a final-year **Artificial Intelligence & Data Science** undergraduate passionate about building intelligent software that combines **Machine Learning, Backend Engineering, and Product Development.**
-
-I enjoy taking ideas from experimentation to deployment—whether that's training ML models, developing REST APIs, or creating full-stack applications with practical use cases.
-
-### Currently
+Final-year **AI & Data Science** undergraduate who likes taking ideas from experiment to deployment — training ML models, building REST APIs, and shipping full-stack products end to end.
 
 - 🤖 Building ML-powered applications
+- 📚 Exploring Retrieval-Augmented Generation (RAG) and LLM tooling
 - ☁️ Learning AWS & cloud deployment
-- 📚 Exploring Retrieval-Augmented Generation (RAG)
-- 💡 Looking for AI/ML & Software Engineering internship opportunities
+- 💡 Open to **AI/ML and Software Engineering internships**
 
----
+<br>
 
 ## Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" />
-</p>
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" />
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 
-### Cloud & Selected Services
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,s3,lambda,cloudformation,vercel" />
-</p>
+**Cloud**
+<img src="https://skillicons.dev/icons?i=aws,vercel" />
 
-- AWS: S3, Lambda, CloudFormation, (Amazon Bedrock where applicable)
-- Hosting: Vercel
-- LLM / ML services: Amazon Bedrock
+&nbsp;&nbsp;S3 · Lambda · CloudFormation · Amazon Bedrock · Vercel
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+**Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-### Machine Learning & LLMs
-<p>
-  <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy,streamlit,huggingface" />
-</p>
+**Machine Learning & LLMs**
+<img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy,streamlit,huggingface" />
 
-- Frameworks / libraries: scikit-learn, Pandas, NumPy, Streamlit
-- LLM / tooling: LangChain, Hugging Face, Amazon Bedrock
+&nbsp;&nbsp;scikit-learn · Pandas · NumPy · Streamlit · LangChain · Hugging Face · Amazon Bedrock
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,kaggle" />
-</p>
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,kaggle" />
 
----
+<br>
 
-# Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
-|----------|-------------|-------|
-| **CampusWallet** | AI-powered student finance platform featuring expense tracking, anomaly detection, and intelligent expense categorization using machine learning and LLMs. | React • FastAPI [...]
-| **SkimLit Pro** | NLP application that classifies sentences from medical research abstracts using TensorFlow and deep learning. | TensorFlow • FastAPI • React |
-| **My Fridge Food** | Generates recipe recommendations based on ingredients available at home while minimizing food waste. | React • Express • Pandas |
-| **TrackSpace** | Productivity platform for organizing goals, progress tracking, and personal task management. | Python + Flask |
-| **AI Resume Critique** | Resume review tool that provides AI-generated feedback and suggestions for improvement. | Python • Streamlit |
+|---|---|---|
+| **CampusWallet** | AI-powered student finance platform with expense tracking, anomaly detection, and LLM-based expense categorization. | React · FastAPI |
+| **SkimLit Pro** | NLP model that classifies sentences in medical research abstracts. | TensorFlow · FastAPI · React |
+| **My Fridge Food** | Recipe recommendations based on ingredients on hand, aimed at cutting food waste. | React · Express · Pandas |
+| **TrackSpace** | Productivity platform for goal setting, progress tracking, and task management. | Python · Flask |
+| **AI Resume Critique** | Resume review tool that gives AI-generated feedback and suggestions. | Python · Streamlit |
 
----
+<br>
 
-# Hackathons
+## Hackathons
 
-🏆 **Pragyantra National Hackathon** — **3rd Prize**
+🏆 **Pragyantra National Hackathon — 3rd Prize**
+Built **Arivon**, an adaptive EdTech platform for personalized learning.
 
-Built **Arivon**, an adaptive EdTech platform focused on personalized learning experiences.
+Also competed at: SBI Hackathon · IDBI Innovate · NABARD Hackathon · FlowZint Hackathon
 
-**Other Hackathons**
+<br>
 
-- SBI Hackathon
-- IDBI Innovate
-- NABARD Hackathon
-- FlowZint Hackathon
+## Currently Learning
 
----
+AWS · Retrieval-Augmented Generation (RAG) · MLOps Fundamentals · System Design for AI Applications
 
-# Currently Learning
+<br>
 
-- AWS
-- Retrieval-Augmented Generation (RAG)
-- MLOps Fundamentals
-- System Design for AI Applications
-
----
-
-# GitHub Stats
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nishtha911&theme=default&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishtha911&theme=github-light&hide_border=true)
 
 </div>
 
-
----
+<br>
 
 <div align="center">
 
-### "Building practical AI products, one project at a time."
+*Building practical AI products, one project at a time.*
 
 ⭐ Feel free to explore my repositories or connect with me!
 

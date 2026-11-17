@@ -20,10 +20,8 @@
 </p>
 
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nishtha911.nishtha911&left_color=%230C1327&right_color=%238B5CF6&left_text=PROFILE%20VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Pune%2C%20India-0C1327?style=flat-square&labelColor=0C1327&color=8B5CF6" alt="Pune, India" />
-  <img src="https://img.shields.io/badge/B.E.%20AI%20%26%20DS%20'27-0C1327?style=flat-square&labelColor=0C1327&color=8B5CF6" alt="Class of 2027" />
-  <img src="https://img.shields.io/badge/CGPA%209.15%2F10-0C1327?style=flat-square&labelColor=0C1327&color=8B5CF6" alt="CGPA 9.15" />
+  <img src="https://komarev.com/ghpvc/?username=nishtha911&label=PROFILE+VIEWS&color=8B5CF6&labelColor=0C1327&style=flat-square&base=500" alt="Profile Views" />
+
 </p>
 
 <br />
@@ -165,11 +163,11 @@ My work spans building graph-powered developer tools (**RepoScope**), cut-layer 
       <a href="https://github.com/SohamOrSomethin/Queue-Analytics-YOLOv8"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top" align="left">
-      <img src="https://img.shields.io/badge/SOLO%20%26%20ACADEMIC-DEEP%20LEARNING-0C1327?style=flat-square&labelColor=0C1327&color=A78BFA" alt="Deep Learning" />
+      <img src="https://img.shields.io/badge/ACADEMIC-DEEP%20LEARNING-0C1327?style=flat-square&labelColor=0C1327&color=A78BFA" alt="Deep Learning" />
       <h3><a href="https://github.com/nishtha911/Fruit-Ripeness-Predictor">Fruit Ripeness Predictor</a> &amp; <a href="https://github.com/ruxir-ig/VERBALIZE_Lip-Reader">Verbalyze</a></h3>
       <b>Computer Vision &amp; Sequence Modeling</b><br /><br />
       <b>Fruit Ripeness Predictor:</b> CNN vision model predicting agricultural produce ripeness stages.<br />
-      <b>Verbalyze Lip-Reader:</b> Deep learning sequence model predicting spoken tokens from silent video frames.<br /><br />
+      <b>Verbalyze Lip-Reader:</b> First-year group project. Deep learning sequence model predicting spoken tokens from silent video frames.<br /><br />
       <img src="https://img.shields.io/badge/Python-0C1327?style=flat-square&logo=python&logoColor=white&color=8B5CF6" alt="Python" />
       <img src="https://img.shields.io/badge/CNN%20%2F%20Vision-0C1327?style=flat-square&color=8B5CF6" alt="CNN / Vision" />
       <img src="https://img.shields.io/badge/Lip%20Reading-0C1327?style=flat-square&color=8B5CF6" alt="Lip Reading" />
@@ -206,7 +204,7 @@ My work spans building graph-powered developer tools (**RepoScope**), cut-layer 
       <a href="https://github.com/nishtha911/Pragyantra-ED14-ET-3"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top" align="left">
-      <img src="https://img.shields.io/badge/IDBI%20INNOVATE-FINTECH-0C1327?style=flat-square&labelColor=0C1327&color=A78BFA" alt="IDBI Innovate" />
+      <img src="https://img.shields.io/badge/IDBI%20INNOVATE-HACKATHON%20%C2%B7%20FINTECH-0C1327?style=flat-square&labelColor=0C1327&color=A78BFA" alt="IDBI Innovate Hackathon" />
       <h3><a href="https://github.com/nishtha911/IDBI-Innovate">FinSight</a></h3>
       Credit assessment tool evaluating MSME creditworthiness in under 30 seconds using multi-stream financial signals and transaction analytics beyond standard credit scores.<br /><br />
       <img src="https://img.shields.io/badge/MSME%20Scoring-0C1327?style=flat-square&color=8B5CF6" alt="MSME Scoring" />
